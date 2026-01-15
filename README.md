@@ -13,7 +13,7 @@ This study utilizes spatially resolved transcriptomics (10x Genomics Visium and 
 
 - Spatial Differential Expression (DE) Analysis: Identification of markers like PAEP, MARCO, PNPLA3, and FMO2.
 
-- Cross-Platform Validation: Integration with external datasets including TCGA-HNSC, Causer et al. (2023), and Quah et al. (2023).
+- Cross-Platform Validation: Integration with other datasets including TCGA-HNSC, Visium from Causer et al. (2023), and Xenium data generated in this study.
 
 
 ## Data Availability
